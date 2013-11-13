@@ -196,6 +196,7 @@ public class MainMenu extends GameScreen {
 		playButton.setTextureIndex(0);
 		pressPlayButton = false;
 		Log.i("MainMenu", "Play Clicked!");
+		GLSurface.setGameScreen(new TestGameScreen(this.getActivityContext()));
 	}
 
 }
