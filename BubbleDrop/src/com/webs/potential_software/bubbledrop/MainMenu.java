@@ -25,7 +25,6 @@ public class MainMenu extends GameScreen {
 	
 	public MainMenu(Context activityContext) {
 		super(activityContext);
-		
 		initialize();
 	}
 
@@ -195,7 +194,7 @@ public class MainMenu extends GameScreen {
 	void playUp() {
 		playButton.setTextureIndex(0);
 		pressPlayButton = false;
-		Log.i("MainMenu", "Play Clicked!");
+        GLSurface.setGameScreen(new TestScreen(getActivityContext()));
 	}
 
 }
