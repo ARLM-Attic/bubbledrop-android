@@ -76,7 +76,6 @@ public class LaunchScreen extends GameScreen {
 
 	@Override
 	boolean touchEvent(MotionEvent e) {
-		// TODO Auto-generated method stub
 		return false;
 	}
 
