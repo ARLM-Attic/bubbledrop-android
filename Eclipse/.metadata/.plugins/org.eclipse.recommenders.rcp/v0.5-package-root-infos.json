@@ -1,0 +1,28 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2013-09-07T21:37:00.099-04:00",
+    "location": "D:\\Android Development\\Eclipse\\BubbleDrop\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "322db3959c3383f4be9daa75ffa427d1485879ad",
+    "jarFileModificationDate": "2013-07-16T22:34:37.963-04:00",
+    "location": "\\\\Mike-pc\\d\\android-sdks\\platforms\\android-17\\android.jar",
+    "javaRuntime": false
+  }
+]

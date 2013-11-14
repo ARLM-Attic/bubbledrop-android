@@ -1,0 +1,17 @@
+{
+  "D:\\Android Development\\Eclipse\\BubbleDrop\\src": {
+    "location": "D:\\Android Development\\Eclipse\\BubbleDrop\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\Android Development\\Eclipse\\BubbleDrop\\src\u0027. Skipped."
+  },
+  "\\\\Mike-pc\\d\\android-sdks\\platforms\\android-17\\android.jar": {
+    "location": "\\\\Mike-pc\\d\\android-sdks\\platforms\\android-17\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027\\\\Mike-pc\\d\\android-sdks\\platforms\\android-17\\android.jar\u0027. Neither fingerprint \u0027322db3959c3383f4be9daa75ffa427d1485879ad\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "D:\\Android Development\\Eclipse\\BubbleDrop\\gen": {
+    "location": "D:\\Android Development\\Eclipse\\BubbleDrop\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\Android Development\\Eclipse\\BubbleDrop\\gen\u0027. Skipped."
+  }
+}
